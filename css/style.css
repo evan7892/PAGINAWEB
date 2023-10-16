@@ -805,7 +805,7 @@ border-radius: inherit;}
     line-height: 27px;
     font-weight: 700;
     padding-bottom: 20px;
-    background-image: linear-gradient(to bottom, #ffffff, #b936ae);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
